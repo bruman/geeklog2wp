@@ -4,6 +4,8 @@ Geeklog 2 Wordpress exporter
 This is based on the posting at https://pc.casey.jp/archives/153890244
 I updated tested this with geeklog 1.7.4.pl1 and inported it into Wordpress 5.5.3
 
+I added comment exports in, enabled comments on exported stories, added users, fixed categories.
+
 Your directories may be in a slightly different locations
 
 add the contents of lib-custom.php to geeklog/private/system/lib-custom.php
